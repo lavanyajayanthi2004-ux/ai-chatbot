@@ -11,7 +11,6 @@ The assistant answers using **PDF content + conversational context**, creating a
 - Chat-based question answering
 - Conversational memory (recent context replay)
 - Modern dark UI with smooth UX
-- Welcome header disappears after first message
 - Powered by Groq (LLaMA 3.1)
 
 ---
@@ -34,5 +33,6 @@ The assistant answers using **PDF content + conversational context**, creating a
 ├── README.md            # Project documentation
 ├── .env                 # API keys (not committed)
 └── .gitignore
+
 
 
