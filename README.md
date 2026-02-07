@@ -1,22 +1,22 @@
-# 🤖 AI PDF Chatbot
+# AI PDF Chatbot
 
 An elegant AI-powered chatbot built with **Streamlit** that allows users to upload a PDF and ask questions.  
 The assistant answers using **PDF content + conversational context**, creating a natural chat experience with memory illusion.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📄 Upload and read PDF documents
-- 💬 Chat-based question answering
-- 🧠 Conversational memory (recent context replay)
-- 🎨 Modern dark UI with smooth UX
-- 🫥 Welcome header disappears after first message
-- ⚡ Powered by Groq (LLaMA 3.1)
+- Upload and read PDF documents
+- Chat-based question answering
+- Conversational memory (recent context replay)
+- Modern dark UI with smooth UX
+- Welcome header disappears after first message
+- Powered by Groq (LLaMA 3.1)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **LLM**: LLaMA 3.1 (via Groq API)
@@ -25,7 +25,7 @@ The assistant answers using **PDF content + conversational context**, creating a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
@@ -34,4 +34,5 @@ The assistant answers using **PDF content + conversational context**, creating a
 ├── README.md            # Project documentation
 ├── .env                 # API keys (not committed)
 └── .gitignore
+
 
